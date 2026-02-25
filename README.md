@@ -22,11 +22,6 @@ Lets take a look inside the `src` folder
 
 - Download this template from github and open it in your favourite text editor.
 - In the root directory create a `.env` file and add the following env variables
-```
-PORT=<port number of your choice>
-```
-ex:
-```
 PORT=3000
 ```
 - Inside the `src/config` folder create a file named as `config.json` and write the following code:
